@@ -1,0 +1,2 @@
+# aletheaAI
+Alethea AI has created a platform for creating AI-generated media with the AI Avatar Studio. Create expressive and photorealistic avatars that can not only scale and interact like a normal being and also provide an avenue for people to use for their own purposes. Our mission is to democratize CGI and to enable a community of creators, developers and fans to create, expressive, intelligent and interactive AI Avatars with their own healthy and thriving virtual economies.
